@@ -1,7 +1,8 @@
 import "./App.css";
+import LoginButton from "./components/LoginButton";
 
 function App() {
-  return;
+  return <LoginButton />;
 }
 
 export default App;
